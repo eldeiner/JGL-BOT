@@ -18,15 +18,15 @@ global.owner = [
 global.suittag = ['5212414147874'];
 global.prems = ['5212414147874'];
 
-global.packname = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍';
+global.packname = 'JGL OFICIAL';
+global.author = 'JGL Deiner';
 global.vs = '1.10.90';
 global.version = vs
-global.gt = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
+global.gt = 'JGL BOT';
 global.hadesbot = gt
-global.yt = 'https://youtu.be/aPu9wQi-z8U';
+global.yt = '';
 global.youtube = yt
-global.ig = 'https://www.instagram';
+global.ig = 'https://www.instagram.com/jglofficial';
 global.hadesig = ig
 global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git';
 global.botxdf = md
@@ -51,17 +51,14 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*';
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
-global.igfg = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
+global.wm = 'JGL OFICIAL';
+global.igfg = 'JGL OFICIAL';
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱';
 
-global.imagen1 = fs.readFileSync('./views/Menu.jpg');
-global.imagen2 = fs.readFileSync('./views/nuevobot.jpg');
+global.imagen1 = fs.readFileSync('./views/JGL.png');
+global.imagen2 = fs.readFileSync('./views/Bot.png');
 global.imagen3 = fs.readFileSync('./views/Me.jpg');
 global.imagen4 = fs.readFileSync('./views/+18.jpg');
-global.imagen5 = fs.readFileSync('./views/anime.jpg');
-global.imagen6 = fs.readFileSync('./views/bot.jpg');
-global.imagen7 = fs.readFileSync('./views/minecraft.jpg');
 
 
 global.mods = [] 
