@@ -1,7 +1,7 @@
 {
-  "name": "HADES-BOT-MD",
+  "name": "JGL BOT",
   "version": "1.0.0",
-  "description": "subscribe to the HADES-BOT channel",
+  "description": "Bienvenido a JGL BOT",
   "main": "index.js",
   "type": "module",
   "directories": {
